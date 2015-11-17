@@ -1,0 +1,30 @@
+.calendar
+{
+		color:white;
+        background-color:black;
+        width:600px;
+		height:492px;
+        margin:auto;
+        
+}
+#display{
+	text-align:center;
+}
+.calendar th
+{
+		font-size: 22px;
+		color:white;
+        background-color:green;
+        width:72px;
+}
+
+.calendar td
+{
+		font-size: 22px;
+		color:black;
+        background-color:white;
+        text-align:center;
+        width:72px;
+        height:72px;
+}
+
